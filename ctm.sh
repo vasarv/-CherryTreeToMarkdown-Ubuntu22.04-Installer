@@ -9,4 +9,4 @@ clear &&
 php composer.phar install &&
 echo "CherryTreeToMarkdown installed!!!" &&
 echo "---------------------------------" &&
-php cherrytomd.php --help &&
+php cherrytomd.php --help
