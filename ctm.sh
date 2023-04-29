@@ -7,5 +7,6 @@ sudo apt update
 sudo apt install php8.0 php8.0-mbstring php8.0-xml php8.0-exif -y
 git clone https://gitlab.com/kibley/cherrytreetomarkdown.git
 cd cherrytreetomarkdown/
+clear
 php composer.phar install
 echo "CherryTreeToMarkdown installed!!!"
